@@ -1,0 +1,14 @@
+#contato{
+    background: #333333;
+    padding-bottom: 70px;
+}
+.contato-email{
+    text-align: center;
+    padding: 20px;
+    font-size: 1.3em;
+}
+.contato-zap{
+    text-align: center;
+    padding: 20px;
+    font-size: 1.3em;
+}
